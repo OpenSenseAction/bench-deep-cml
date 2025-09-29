@@ -1,0 +1,28 @@
+name: bench-deep-cml
+channels:
+  - conda-forge
+dependencies:
+ - numpy
+ - pytorch
+ - torchvision
+ - matplotlib
+ - scipy
+ - pandas
+ - xarray
+ - utm
+ - netcdf4
+ - tqdm
+ - prettytable
+ - huggingface_hub
+ - numba
+ - h5py
+ - xarray
+ - sparse
+ - shapely
+ - pyproj
+ - pykrige
+ - scikit-learn
+ - future
+ - bottleneck
+ - poligrain
+
