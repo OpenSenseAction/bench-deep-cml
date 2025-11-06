@@ -210,3 +210,8 @@ __marimo__/
 .idea/misc.xml
 .idea/modules.xml
 .idea/vcs.xml
+
+# Data instaled by Poligrain
+example_data    
+# cached tensorflow cnn model 
+model_cnn

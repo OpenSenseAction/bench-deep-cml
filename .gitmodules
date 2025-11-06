@@ -4,3 +4,6 @@
 [submodule "pycomlink"]
 	path = pycomlink
 	url = https://github.com/pycomlink/pycomlink
+[submodule "cml_wd_telcosense"]
+	path = cml_wd_telcosense
+	url = https://github.com/xkalet07/cml_wd_telcosense.git
